@@ -1,0 +1,12 @@
+syntax = "proto3";
+package absonkab.yennenga_blockchain.yennengablockchain;
+
+import "gogoproto/gogo.proto";
+
+option go_package = "github.com/absonkab/yennenga_blockchain/x/yennengablockchain/types";
+
+// Params defines the parameters for the module.
+message Params {
+  option (gogoproto.goproto_stringer) = false;
+  
+}

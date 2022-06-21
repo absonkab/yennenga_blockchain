@@ -1,0 +1,21 @@
+accounts:
+  - name: fatou
+    coins: ["20000YengCoin", "200000000stake"]
+  - name: bouba
+    coins: ["10000YengCoin", "100000000stake"]
+  - name: adam
+    coins: ["10000YengCoin", "100000000stake"]
+  - name: abass
+    address: cosmos1ej2qlentm7pkhnhdpd99psaygs04v0jezwnxhy
+    coins: ["10000YengCoin", "100000000stake"]
+validator:
+  name: fatou
+  staked: "100000000stake"
+client:
+  openapi:
+    path: "docs/static/openapi.yml"
+  vuex:
+    path: "vue/src/store"
+faucet:
+  name: bouba
+  coins: ["5YengCoin", "100000stake"]

@@ -1,0 +1,14 @@
+syntax = "proto3";
+package absonkab.yennenga_blockchain.yennengablockchain;
+
+import "gogoproto/gogo.proto";
+import "yennengablockchain/params.proto";
+// this line is used by starport scaffolding # genesis/proto/import
+
+option go_package = "github.com/absonkab/yennenga_blockchain/x/yennengablockchain/types";
+
+// GenesisState defines the yennengablockchain module's genesis state.
+message GenesisState {
+  Params params = 1 [(gogoproto.nullable) = false];
+  // this line is used by starport scaffolding # genesis/proto/state
+}

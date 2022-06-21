@@ -1,0 +1,14 @@
+fatou:
+	account address: cosmos13x4ksl7ysws7yy8fzt3v2ssc8frehn0csjsgtj 
+	with mnemonic: "strong kiwi echo obscure wear lyrics galaxy law mother throw ribbon owner endless unit group grant opinion wink benefit like rubber weird vicious grid"
+
+bouba:
+	account address: cosmos1etmarpwk64jtyj8kdg804zuvatfsqu9elguhw6" 
+	with mnemonic: "spoon luxury super cancel song loud educate reduce unique horse height jazz guard fog tide silly deposit coral only beauty write lonely matter maid"
+
+Created account "adam" 
+	with address "cosmos1t2ad2rfl6mw9tdtxtr923rtwxe0n887g2ymwkt" 
+	with mnemonic: "flame abstract width angry insane cash leave wet auto around check plate crouch lottery treat promote under interest vehicle rate swap equip gold young"
+
+Imported an account "abass" 
+	with address: "cosmos1ej2qlentm7pkhnhdpd99psaygs04v0jezwnxhy"
